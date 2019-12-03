@@ -31,8 +31,7 @@
     
 .menu{
     overflow: hidden;
-    grid-column: 3/4;
-    background-color:black;
+
 }
 .menu li{
     align-items: center;
